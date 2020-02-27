@@ -128,7 +128,7 @@ img {
 
 @media (max-width: 650px) {
     .logo {
-        left: 37%;
+        left: 30%;
         top: 5%;
         width: 180px;
         height: auto;
@@ -362,7 +362,7 @@ h2 {
 
 @media (max-width: 650px) {
     .facebook {
-        margin-top: 90%;
+        margin-top: 100%;
     }
 }
 
