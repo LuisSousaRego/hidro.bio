@@ -38,7 +38,6 @@
 
 @media (max-width: 650px) {
     .navbar a {
-        display: none;
         color: #FAFAFA;
         padding-right: 10px;
         font-size: 3px;
