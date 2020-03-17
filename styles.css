@@ -20,16 +20,15 @@
     z-index: 2;
 }
 
+.navbar a {
+    padding-right: 40px;
+}
+
 .nav-links {
     display: flex;
     justify-content: flex-end;
     width: 40%;
-}
-
-.navbar a {
-    padding-right: 40px;
     float: right;
-    display: block;
     color: #434445;
     text-decoration: none;
     font-size: 16px;
@@ -40,7 +39,6 @@
     .navbar a {
         color: #FAFAFA;
         padding-right: 10px;
-        font-size: 3px;
     }
 }
 
@@ -49,7 +47,12 @@
 }
 
 .navbar a:hover {
-    letter-spacing: 1px;
+    font-weight: bold;
+}
+
+.navbar a:visited {
+    color: #434445;
+    text-decoration: none;
 }
 
 .fbicon {
