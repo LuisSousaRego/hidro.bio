@@ -41,6 +41,7 @@
         display: none;
         color: #FAFAFA;
         padding-right: 10px;
+        font-size: 3px;
     }
 }
 
@@ -75,7 +76,6 @@ img {
     cursor: pointer;
     z-index: 2;
     margin-right: 70px;
-    margin-top: 15px;
 }
 
 .dropbtn:hover,
